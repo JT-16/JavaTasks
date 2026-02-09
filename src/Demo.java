@@ -8,8 +8,8 @@ public class Demo {
         int x = 10;
         int y = 20;
         final int myAge;
-        System.out.println("thw sum is " + x + y);
-        System.out.println("thw sum is " + (x + y));
+        System.out.println("the sum is " + x + y);
+        System.out.println("the sum is " + (x + y));
 
     }
 }
